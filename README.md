@@ -1,5 +1,5 @@
 ## Hi there, I'm Alpay
-> [e-mail](alpayozer7@gmail.com)
+> [e-mail](mailto:alpayozer7@gmail.com)
 <!--
 **alpayozer/alpayozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
